@@ -53,6 +53,8 @@ Tracked how users move through the funnel:
 ### 2. Conversion Rates
 - Calculated conversion rates between each stage to identify drop-offs.
 
+<img width="924" height="537" alt="image" src="https://github.com/user-attachments/assets/d1b9320d-d637-47b9-90a2-b2c7fc9b3a14" />
+
 <img width="1337" height="100" alt="funnel stages conversion rates" src="https://github.com/user-attachments/assets/df9059e5-1bf0-42e9-9329-0be5d7cdbcc5" />
 
 **Key Insights:**  
