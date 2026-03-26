@@ -20,7 +20,6 @@ The analysis was performed using SQL in Google BigQuery.
 - Google BigQuery
 - Data aggregation and transformation using CTEs
   
-- -
 ## Dataset
 The dataset consists of event-level e-commerce data, including:
 - `user_id` – unique identifier for each user
@@ -30,7 +29,9 @@ The dataset consists of event-level e-commerce data, including:
 - `amount` – transaction value (for purchases)
 - `traffic_source` – acquisition channel (email, organic, paid, social)
 
-![Sample Dataset](images/Sample dataset.png)
+<img width="1153" height="460" alt="Sample dataset" src="https://github.com/user-attachments/assets/e1651527-2076-4652-8d5b-9a9124ca25c4" />
+
+
 ##  Key Analyses
 
 ### 1. Funnel Analysis
