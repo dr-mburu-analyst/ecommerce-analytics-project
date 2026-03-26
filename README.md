@@ -29,6 +29,9 @@ The dataset consists of event-level e-commerce data, including:
 - `amount` – transaction value (for purchases)
 - `traffic_source` – acquisition channel (email, organic, paid, social)
 
+  <img width="662" height="30" alt="image" src="https://github.com/user-attachments/assets/29038c34-d706-4bc7-8189-c3992751c417" />
+
+
 <img width="1153" height="460" alt="Sample dataset" src="https://github.com/user-attachments/assets/e1651527-2076-4652-8d5b-9a9124ca25c4" />
 
 
