@@ -30,7 +30,7 @@ The dataset consists of event-level e-commerce data, including:
 - `amount` – transaction value (for purchases)
 - `traffic_source` – acquisition channel (email, organic, paid, social)
 
-![Funnel Query](images/Sample dataset.png)
+![Sample Dataset](images/Sample dataset.png)
 ##  Key Analyses
 
 ### 1. Funnel Analysis
