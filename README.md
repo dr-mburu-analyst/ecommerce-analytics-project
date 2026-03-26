@@ -41,21 +41,23 @@ Tracked how users move through the funnel:
 <img width="792" height="85" alt="funnel stages" src="https://github.com/user-attachments/assets/9312810d-95b1-4a70-9621-656eac552d55" />
 
 **Key Insight:**  
-A large drop-off occurs between page view (5000 users) and add-to-cart (1553 users), indicating that only about 31% of users show purchase intent.
+- A large drop-off occurs between page view (5000 users) and add-to-cart (1553 users), indicating that only about 31% of users show purchase intent.
+  
 **Business Implication:**  
 This suggests potential issues with product appeal, pricing, or user experience on product pages.
 
 ### 2. Conversion Rates
-Calculated conversion rates between each stage to identify drop-offs.
+- Calculated conversion rates between each stage to identify drop-offs.
 
 <img width="1337" height="100" alt="funnel stages conversion rates" src="https://github.com/user-attachments/assets/df9059e5-1bf0-42e9-9329-0be5d7cdbcc5" />
 
 **Key Insights:**  
 - View → Cart conversion is relatively low (~31%), representing the largest drop-off in the funnel  
 - Cart → Checkout (~71%) and Checkout → Payment (~82%) show strong progression  
-- Payment → Purchase (~92%) indicates minimal friction in the final step  
+- Payment → Purchase (~92%) indicates minimal friction in the final step
+  
 **Business Implication:**  
-The checkout process is highly optimized, and improvement efforts should focus on earlier funnel stages where the majority of users are lost.
+- The checkout process is highly optimized, and improvement efforts should focus on earlier funnel stages where the majority of users are lost.
 
 ### 3. Traffic Source Analysis
 Compared user behavior and conversion performance across different acquisition channels.
@@ -65,18 +67,21 @@ Compared user behavior and conversion performance across different acquisition c
 **Key Insights:**  
 - Social media drives a high volume of traffic but has the lowest conversion rate  
 - Email shows the highest conversion efficiency despite lower traffic volume  
-- Organic and paid channels fall in between in terms of performance  
+- Organic and paid channels fall in between in terms of performance
+  
 **Business Implication:**  
 Marketing efforts should prioritize high-converting channels like email and shift social media strategy toward retargeting and lead generation rather than awareness alone.
 
 ### 4. Time-to-Conversion
-Measured the time it takes users to move from initial interaction to purchase.
+- Measured the time it takes users to move from initial interaction to purchase.
+  
 <img width="792" height="86" alt="image" src="https://github.com/user-attachments/assets/0b40a77e-8188-4ff8-827a-7a6332092e3f" />
 
 **Key Insight:**  
-On average, users complete their journey from initial interaction to purchase in approximately 24 minutes.
+- On average, users complete their journey from initial interaction to purchase in approximately 24 minutes.
+
 **Business Implication:**  
-The relatively short conversion window suggests that users who intend to purchase do so quickly, making real-time engagement strategies (e.g., discounts, reminders) highly effective.
+- The relatively short conversion window suggests that users who intend to purchase do so quickly, making real-time engagement strategies (e.g., discounts, reminders) highly effective.
 
 ### 5. Revenue Analysis
 Calculated:
@@ -88,9 +93,10 @@ Calculated:
 
 **Key Insights:**  
 - Total revenue is driven by a relatively small subset of users who complete purchases  
-- Average order value (AOV) is approximately $115  
+- Average order value (AOV) is approximately $115
+  
 **Business Implication:**  
-Improving conversion rates earlier in the funnel could significantly increase total revenue without increasing traffic.
+- Improving conversion rates earlier in the funnel could significantly increase total revenue without increasing traffic.
 
 ## 💡 Key Insights
 - Significant drop-off observed between product view and add-to-cart stage (~30% conversion)
