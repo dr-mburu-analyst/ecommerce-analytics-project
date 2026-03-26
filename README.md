@@ -82,7 +82,9 @@ Marketing efforts should prioritize high-converting channels like email and shif
 
 ### 4. Time-to-Conversion
 - Measured the time it takes users to move from initial interaction to purchase.
-  
+
+<img width="809" height="395" alt="image" src="https://github.com/user-attachments/assets/40c86f13-c5fe-4f80-8fb6-68b1a7fd690b" />
+
 <img width="792" height="86" alt="image" src="https://github.com/user-attachments/assets/0b40a77e-8188-4ff8-827a-7a6332092e3f" />
 
 **Key Insight:**  
