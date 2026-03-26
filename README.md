@@ -41,6 +41,8 @@ The dataset consists of event-level e-commerce data, including:
 Tracked how users move through the funnel:
 - Page View → Add to Cart → Checkout → Payment → Purchase
 
+<img width="847" height="266" alt="image" src="https://github.com/user-attachments/assets/d6824240-3674-4820-80e2-430e24ed8aae" />
+
 <img width="792" height="85" alt="funnel stages" src="https://github.com/user-attachments/assets/9312810d-95b1-4a70-9621-656eac552d55" />
 
 **Key Insight:**  
