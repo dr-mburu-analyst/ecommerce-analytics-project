@@ -44,7 +44,7 @@ Tracked how users move through the funnel:
 - A large drop-off occurs between page view (5000 users) and add-to-cart (1553 users), indicating that only about 31% of users show purchase intent.
   
 **Business Implication:**  
-This suggests potential issues with product appeal, pricing, or user experience on product pages.
+- This suggests potential issues with product appeal, pricing, or user experience on product pages.
 
 ### 2. Conversion Rates
 - Calculated conversion rates between each stage to identify drop-offs.
