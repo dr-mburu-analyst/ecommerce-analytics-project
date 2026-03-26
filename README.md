@@ -38,11 +38,18 @@ The dataset consists of event-level e-commerce data, including:
 Tracked how users move through the funnel:
 - Page View → Add to Cart → Checkout → Payment → Purchase
 
+<img width="792" height="85" alt="funnel stages" src="https://github.com/user-attachments/assets/9312810d-95b1-4a70-9621-656eac552d55" />
+
 ### 2. Conversion Rates
 Calculated conversion rates between each stage to identify drop-offs.
 
+<img width="1337" height="100" alt="funnel stages conversion rates" src="https://github.com/user-attachments/assets/df9059e5-1bf0-42e9-9329-0be5d7cdbcc5" />
+
+
 ### 3. Traffic Source Analysis
 Compared user behavior and conversion performance across different acquisition channels.
+
+<img width="1034" height="206" alt="funnel by source" src="https://github.com/user-attachments/assets/bbf00bcd-08d9-45a7-87e0-740aa9bc8e7c" />
 
 ### 4. Time-to-Conversion
 Measured the time it takes users to move from initial interaction to purchase.
@@ -52,6 +59,8 @@ Calculated:
 - Total revenue
 - Number of orders
 - Average order value
+
+<img width="779" height="110" alt="funnel revenue" src="https://github.com/user-attachments/assets/625e2cdc-4f8c-4f4d-9e0b-7b7bd20926ba" />
 
 ## 💡 Key Insights
 - Significant drop-off observed between product view and add-to-cart stage (~30% conversion)
