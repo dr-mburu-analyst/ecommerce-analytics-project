@@ -99,6 +99,8 @@ Calculated:
 - Number of orders
 - Average order value
 
+<img width="867" height="311" alt="image" src="https://github.com/user-attachments/assets/cda2053d-9fd8-4920-8c73-60ea2a6ab88c" />
+
 <img width="779" height="110" alt="funnel revenue" src="https://github.com/user-attachments/assets/625e2cdc-4f8c-4f4d-9e0b-7b7bd20926ba" />
 
 **Key Insights:**  
