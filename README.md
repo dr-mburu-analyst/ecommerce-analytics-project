@@ -68,6 +68,8 @@ Tracked how users move through the funnel:
 ### 3. Traffic Source Analysis
 Compared user behavior and conversion performance across different acquisition channels.
 
+<img width="833" height="439" alt="image" src="https://github.com/user-attachments/assets/f5c216a4-e7e2-476e-a4aa-8c3698dce192" />
+
 <img width="1034" height="206" alt="funnel by source" src="https://github.com/user-attachments/assets/bbf00bcd-08d9-45a7-87e0-740aa9bc8e7c" />
 
 **Key Insights:**  
